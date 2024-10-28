@@ -28,6 +28,7 @@ dependencies:
   - tqdm
   - zarr
   - intake
+  - intake-esm
   - gcsfs
   - dask
   - nc-time-axis
