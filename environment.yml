@@ -14,4 +14,20 @@ dependencies:
   # Everyone wants to use nbgitpuller for everything, so let's do that
   - nbgitpuller=1.1.*
   # Add other packages here
-  # -
+  - xarray
+  - numpy
+  - xagg
+  - pandas
+  - geopandas >= 0.12.0
+  - xesmf >= 0.7.1
+  - scipy
+  - cmocean
+  - matplotlib
+  - seaborn
+  - cartopy
+  - tqdm
+  - zarr
+  - intake
+  - gcsfs
+  - dask
+  - nc-time-axis
