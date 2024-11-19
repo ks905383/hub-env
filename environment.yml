@@ -37,3 +37,4 @@ dependencies:
   - graphviz # for dask.visualize
   - dask-gateway 
   - dask-gateway-server-local
+  - flox # for faster groupbys with dask
