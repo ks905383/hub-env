@@ -32,3 +32,6 @@ dependencies:
   - gcsfs
   - dask
   - nc-time-axis
+  - nodejs
+  - dask_labextension
+  - graphviz # for dask.visualize
