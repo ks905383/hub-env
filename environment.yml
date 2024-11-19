@@ -35,3 +35,5 @@ dependencies:
   - nodejs
   - dask_labextension
   - graphviz # for dask.visualize
+  - dask-gateway 
+  - dask-gateway-server-local
